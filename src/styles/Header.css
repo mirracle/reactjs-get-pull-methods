@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #660000;
+  height: 50px;
+  padding: 15px;
+  color: white;
+}
+
+.App-header-link {
+  float: right;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.App-header-name {
+  float: left;
+  text-transform: uppercase;
+  padding: 10px;
+  color: #ffff80;
+}
+
+.link {
+  color: white;
+}
+
+
+

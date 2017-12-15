@@ -1,0 +1,60 @@
+.allposts {
+	color: white;
+	padding-top: 23px;
+}
+.post {
+	width: 400px;
+	float: left;
+	height: 300px;
+	padding: 30px;
+}
+.PostId {
+	text-align: center;
+	background-color: black;
+	margin: 0;
+	padding: 10px;
+}
+.PostName {
+	background-color: #004d00;
+	margin: 0;
+	padding: 10px;
+	border-left: 15px ridge black;
+	border-right: 15px ridge black;
+	border-top: 15px ridge black;
+	font-family: cursive;
+	font-size: 16px;
+	border-bottom: 3px solid black;
+}
+.PostEmail {
+	background-color: #4d0066;
+	margin: 0;
+	padding: 10px;
+	border-left: 15px ridge black;
+	border-right: 15px ridge black;
+	font-family: cursive;
+	font-size: 16px;
+	border-bottom: 3px solid black;
+}
+.PostBody {
+	background-color: #000066;
+	margin: 0;
+	padding: 10px;
+	border-left: 15px ridge black;
+	border-right: 15px ridge black;
+	border-bottom: 15px ridge black;
+}
+.name {
+	color: #ffff80;
+}
+.email {
+	color: #ffff80;
+}
+.body {
+	color: #ffff80;
+}
+.LinkPost {
+  text-decoration: none;
+  color: white;
+}
+
+
